@@ -1,16 +1,24 @@
-## Hi there 👋
+[![Banner](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi!%20I%27m%20Eva%20%F0%9F%91%8B%2C%20a%20junior%20software%20engineer&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+I’m Eva, I also go by Six. 
+I build with Python and I enjoy shipping practical apps with strong data models, validation, and clear outputs.
 
-<!--
-**evvagie/evvagie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stack:** <HTML, CSS, Python, SQL, JavaScript>  
+**Currently looking for:** <software engineer position in Paris, France, / Warsaw, Poland / remote>
 
-Here are some ideas to get you started:
+### Featured projects
+**Hackathon Management Platform**
+:point_right: Team-built hackathon management platform developed during the Goldman Sachs hackathon (Warsaw, Nov 2025). Built with Flask, SQLite, and vanilla JavaScript, featuring role-based authentication, external challenge retrieval, and a submission/validation workflow.
+:point_right: My role: Designed and implemented backend API endpoints (authentication, challenge retrieval, and submissions).
+:point_right: Repo: https://github.com/alrltgit/Hackathon-Management-Platform.git 
+:point_right: Demo: ![Homepage](./docs/homepage.png)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**SparkUp**
+:point_right: Team-built Python/Flask application that helps users discover and track activities. It integrates the Bored API with a relational database and follows a service–repository architecture, using the database as the single source of truth. This app was created as the final project of the Code First Girls' programming course in Software Engineering, where I was sponsored by Goldman Sachs.
+:point_right: My role: Implemented and tested the service layer (services.py), handling business logic, API–database orchestration, weighted sourcing, and fallback strategies.
+:point_right: Repo: https://github.com/orchid-cloud/cfg-group-project-team-1.git 
+:point_right: Demo: ![SparkUp demo](./docs/sparkupdemo.gif)
+
+### Contact
+- LinkedIn: [Eva Gierczynska] https://www.linkedin.com/in/eva-gierczynska/
+- Email: eva.gierczynska@gmail.com
