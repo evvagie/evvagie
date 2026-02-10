@@ -9,17 +9,16 @@ I build with Python and I enjoy shipping practical apps with strong data models,
 
 **Hackathon Management Platform**  
 :point_right: Team-built hackathon management platform developed during the Goldman Sachs hackathon (Warsaw, Nov 2025). Built with Flask, SQLite, and vanilla JavaScript, featuring role-based authentication, external challenge retrieval, and a submission/validation workflow.  
-:point_right: My role: Designed and implemented backend API endpoints (authentication, challenge retrieval, and submissions).  
-:point_right: Repo: [Hackathon Management Platform](https://github.com/alrltgit/Hackathon-Management-Platform)  
-:point_right: Demo:
-![Homepage](https://raw.githubusercontent.com/alrltgit/Hackathon-Management-Platform/main/docs/homepage.png)
+:point_right: My role: Designed and implemented backend API endpoints (authentication, challenge retrieval, and submissions).
+:point_right: Repo: Private (available upon request)
+:point_right: Demo: ![Homepage](https://github.com/evvagie/evvagie/blob/main/homepage%20hackathon.png?raw=true)
 
 
 **SparkUp**  
 :point_right: Team-built Python/Flask application that helps users discover and track activities. It integrates the Bored API with a relational database and follows a service–repository architecture, using the database as the single source of truth. This app was created as the final project of the Code First Girls' programming course in Software Engineering, where I was sponsored by Goldman Sachs.  
 :point_right: My role: Implemented and tested the service layer (services.py), handling business logic, API–database orchestration, weighted sourcing, and fallback strategies.  
 :point_right: Repo: [SparkUp](https://github.com/orchid-cloud/cfg-group-project-team-1)  
-:point_right: Demo: ![SparkUp demo](https://raw.githubusercontent.com/orchid-cloud/cfg-group-project-team-1/944746ba6c4299cbf7a6b95d884a2a7f616141c5/docs/sparkupdemo.gif?token=ALF2ZWIKUFOP7ZTN3WGPP7LJRMQAS)  
+:point_right: Demo: ![SparkUp demo](https://raw.githubusercontent.com/orchid-cloud/cfg-group-project-team-1/944746ba6c4299cbf7a6b95d884a2a7f616141c5/docs/sparkupdemo.gif)  
 
 ### Vibe-coding projects  
 
