@@ -18,7 +18,7 @@ I build with Python and I enjoy shipping practical apps with strong data models,
 :point_right: Team-built Python/Flask application that helps users discover and track activities. It integrates the Bored API with a relational database and follows a service–repository architecture, using the database as the single source of truth. This app was created as the final project of the Code First Girls' programming course in Software Engineering, where I was sponsored by Goldman Sachs.  
 :point_right: My role: Implemented and tested the service layer (services.py), handling business logic, API–database orchestration, weighted sourcing, and fallback strategies.  
 :point_right: Repo: [SparkUp](https://github.com/orchid-cloud/cfg-group-project-team-1)  
-:point_right: Demo: ![SparkUp demo](https://raw.githubusercontent.com/orchid-cloud/cfg-group-project-team-1/944746ba6c4299cbf7a6b95d884a2a7f616141c5/docs/sparkupdemo.gif)  
+:point_right: Demo: ![SparkUp demo](https://github.com/evvagie/evvagie/blob/main/sparkupdemo.gif?raw=true)
 
 ### Vibe-coding projects  
 
