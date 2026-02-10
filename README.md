@@ -10,7 +10,7 @@ I build with Python and I enjoy shipping practical apps with strong data models,
 **Hackathon Management Platform**  
 :point_right: Team-built hackathon management platform developed during the Goldman Sachs hackathon (Warsaw, Nov 2025). Built with Flask, SQLite, and vanilla JavaScript, featuring role-based authentication, external challenge retrieval, and a submission/validation workflow.  
 :point_right: My role: Designed and implemented backend API endpoints (authentication, challenge retrieval, and submissions).
-:point_right: Repo: Private (available upon request)
+:point_right: Repo: Private (available upon request)  
 :point_right: Demo: ![Homepage](https://github.com/evvagie/evvagie/blob/main/homepage%20hackathon.png?raw=true)
 
 
