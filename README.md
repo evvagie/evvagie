@@ -1,4 +1,4 @@
-[![Banner](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi!%20I%27m%20Eva%20%F0%9F%91%8B%2C%20a%20junior%20software%20engineer&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+[![Banner](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi!%20I%27m%20Eva%20%F0%9F%91%8B%2C%20a%20software%20engineer&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 I build with Python and I enjoy shipping practical apps with strong data models, validation, and clear outputs.  
 
